@@ -1,7 +1,18 @@
-# Docker
+# :whale: Docker
 
 The goal of this repository is for me to learn how to use Docker and Docker Compose.
 
 ## What is docker?
 
-Let's say that docker is the evolution of the Virtual Machines, in it we can run different applications at the same time using docker `containers`
+Click on the following link to know more about docker: [About docker](./concepts/aboutDocker.md). 
+
+## Installing docker
+
+[Docker's site](https://www.docker.com/products/docker-desktop)
+
+### For windows:
+
+There are two types of docker available for windows:
+
+#### Docker for windows:
+
