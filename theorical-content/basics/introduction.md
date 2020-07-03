@@ -77,7 +77,10 @@ Theres a few questions that shows why to use docker containers:
 
 ### What is docker?
 
-Docker is a set of technologies that provide modern tools to deplay and run applications which includes the `Docker engine`, a platform that does the intermediate between the O.S of the machine and the containers, it is what allows us to create the containers.
+Docker is a set of technologies that provide modern tools to deploy and run applications. One of the technologies in Docker is the `Docker engine`,
+which is what allows us to create the [containers](). the docker engine
+is what intermediates the machine-container relationship.
+
 
 ### Docker images:
 

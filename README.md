@@ -1,6 +1,18 @@
 # :whale: Docker
 
-The goal of this repository is for me to learn how to use Docker and Docker Compose.
+The goal of this repository is for me to learn how to use Docker and 
+Docker Compose in order to use in the project that I'm working on.
+
+Most of the content here in this repository was created while I was 
+taking a course that I bought at [Alura](https://www.alura.com.br/).
+
+All that said:
+
+
+<p align="center">
+    <i>Wish me luck</i><br>
+    <img src="./img/fingers-crossed.gif">
+</p>
 
 ## What is docker?
 
